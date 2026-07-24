@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+config.json
+seen.json
+jobs.json
+*.log
+cookies/
+jobs.db
+_test_jobs.db
+chromedriver-win64/
+chromedriver-win64.zip
+profile.md
+learned_tags.json
+.playwright-mcp/
+whereiwas.txt
+*_files/
+*.html

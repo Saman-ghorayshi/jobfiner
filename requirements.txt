@@ -1,0 +1,6 @@
+httpx[socks]
+beautifulsoup4
+lxml
+selenium
+scikit-learn
+numpy
